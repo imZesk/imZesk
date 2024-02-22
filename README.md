@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: 
-    - Twitter: @imZesk
+    - Email: immarcofernandez@gmail.com
     - Discord: soyZesk 
 <!--
 **imZesk/imZesk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
